@@ -10,6 +10,7 @@ When a safety condition is detected, the system can generate alerts and report t
 
 ### Key Objectives
 
+
 * Monitor environmental conditions around industrial workers.
 * Detect abnormal movement, falls, and orientation changes.
 * Identify potentially unsafe temperature, humidity, and lighting conditions.
