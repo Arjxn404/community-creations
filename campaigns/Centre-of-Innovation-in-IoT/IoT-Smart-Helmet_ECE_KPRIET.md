@@ -163,7 +163,7 @@ Silicon Labs SDKs, platform software, and third-party components remain subject 
 
 | Name             | Role           | Contact Information                                                 | Github Profile                          |
 | ---------------- | -------------- | ------------------------------------------------------------------- | --------------------------------------- |
-| Arjun V          | Developer      | [arjunvasanthakumar@gmail.com](mailto:arjunvasanthakumar@gmail.com) | [Arjxn404](https://github.com/Arjxn404) |
+| Arjun V          | Developer      | [arjunvasanthakumar2005@gmail.com](mailto:arjunvasanthakumar2005@gmail.com) | [Arjxn404](https://github.com/Arjxn404) |
 | Harish Kumar S   | Developer      | [S-harishkumarsoffl@gmail.com](mailto:S-harishkumarsoffl@gmail.com) |                                         |
 | Kavya Sri R      | Developer      | [kavyasrirdofficial@gmail.com](mailto:kavyasrirdofficial@gmail.com) |                                         |
 | Samhita M        | Developer      | [samhitamanikandan@gmail.com](mailto:samhitamanikandan@gmail.com)   |                                         |
